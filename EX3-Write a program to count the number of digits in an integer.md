@@ -14,7 +14,7 @@ To write a java program to count the number of digits in an integer.
 
 ## Program:
 
-/*
+```
 Program to to count the number of digits in an integer
 Developed by: DHARANISH MS 
 RegisterNumber: 212223240027
@@ -39,7 +39,7 @@ public class CountDigitsRecursive {
         sc.close();
     }
 }
-*/
+```
 
 ## Output:
 
